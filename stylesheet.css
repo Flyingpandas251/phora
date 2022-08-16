@@ -1,0 +1,53 @@
+#img {
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+}
+
+#grad {
+  background-image: linear-gradient(to bottom right, red, pink);
+}
+
+p {
+  font-size: 28px;
+}
+
+.title {
+  font-size: 80px;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Brush Script MT", "Lucida Handwriting", 'Trebuchet MS';
+  color: white;
+  background-color: rgba(0, 0, 0, 0.75);
+  border-radius: 25px;
+
+}
+
+.albums {
+  font-size: 50px;
+}
+
+#albumart {
+  width: 300px;
+  height: 300px;
+}
+
+.albumname {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li {
+  display: inline-table;
+}
+
+li {
+  font-size: 24px;
+  padding-right: 75px;
+  text-align: center;
+  padding-left: 150px;
+  padding-bottom: 50px;
+}
+
+#albums {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
